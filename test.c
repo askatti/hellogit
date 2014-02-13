@@ -6,4 +6,5 @@ printf ("Test merge\n");
 printf ("ReTest merge\n");
 printf (" This is master branch\n");
 printf ("Adding new feature to this file on a branch 'newfeature' \n");
+printf (" This is update from newfeature branch\n");
 }
