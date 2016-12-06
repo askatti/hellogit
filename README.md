@@ -1,1 +1,1 @@
-Sample Project to test CB&I
+Sample Project to test CB&I.
