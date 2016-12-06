@@ -20,8 +20,8 @@ step7 = commands.getoutput("step4 >> /tmp/jenkins_logs.txt")
 time.sleep(10)
 
 step8 = commands.getoutput('ssh root@192.168.11.250 sh /tmp/test4.sh')
-print step2 
-print step3
-print step4
+print "IP : ",step2 
+print "Hostname : ",step3
+print "IFCONFIG OUTPUT : ",step4
 
 
