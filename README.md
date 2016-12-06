@@ -1,3 +1,1 @@
-hello Git
-hello git 2
-hello git 3
+Sample Project to test CB&I
